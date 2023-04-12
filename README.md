@@ -1,1 +1,1 @@
-# game-JogoDaVelha
+# jogo-da-velha
